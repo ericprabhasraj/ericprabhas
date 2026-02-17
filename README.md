@@ -1,4 +1,4 @@
-# ericprabhas
+# ericprabhasraj
 # 💫 About Me:
 🎓 MS in Data Science | B.Tech in Computer Science<br><br>💻 Data Scientist | SQL Developer | ML Enthusiast<br><br>☁️ Exploring AWS, GCP & Cloud Computing<br><br>📊 Passionate about AI, Time Series Forecasting & Real-world ML Applications<br><br>🚀 Building production-ready ML systems
 
