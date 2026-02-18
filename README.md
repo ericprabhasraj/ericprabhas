@@ -1,6 +1,6 @@
 # ericprabhasraj
 # 💫 About Me:
-🎓 MS in Data Science | B.Tech in Computer Science<br><br>💻 Data Scientist | SQL Developer | ML Enthusiast<br><br>☁️ Exploring AWS, GCP & Cloud Computing<br><br>📊 Passionate about AI, Time Series Forecasting & Real-world ML Applications<br><br>🚀 Building production-ready ML systems
+🎓 MS in Data Science | BTech in Computer Science<br><br>💻 Data Scientist | SQL Developer | ML Enthusiast<br><br>☁️ Exploring AWS, GCP & Cloud Computing<br><br>📊 Passionate about AI, Time Series Forecasting & Real-world ML Applications<br><br>🚀 Building production-ready ML systems
 
 
 ## 🌐 Socials:
@@ -16,7 +16,5 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ericprabhasraj&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
 [![](https://visitcount.itsvg.in/api?id=ericprabhasraj&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
